@@ -16,3 +16,5 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.PNG filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
+AtlantisBinariesLinuxAtlantisServer-Linux-Debug filter=lfs diff=lfs merge=lfs -text
+Atlantis/Binaries/Linux/AtlantisServer-Linux-Debug filter=lfs diff=lfs merge=lfs -text
